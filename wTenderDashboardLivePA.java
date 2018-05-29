@@ -92,7 +92,7 @@ public class wTenderDashboardLivePA
             
             submitButton(driver, "//a[contains(text(),'Under Preparation')]", wait);
            
-            String tenderID = "1146,\nTestSelenium1146";    
+            String tenderID = "1148,\nTestSelenium1148";    
             String linktenderID = "";
             
             String dashboardLink = "";
